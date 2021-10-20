@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwsInterceptor-0.7.iml" filepath="$PROJECT_DIR$/.idea/modules/AwsInterceptor-0.7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobileid/AwsInterceptor-0.7.mobileid.iml" filepath="$PROJECT_DIR$/.idea/modules/mobileid/AwsInterceptor-0.7.mobileid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobileID.iml" filepath="$PROJECT_DIR$/.idea/modules/MobileID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobileid/MobileID.mobileid.iml" filepath="$PROJECT_DIR$/.idea/modules/mobileid/MobileID.mobileid.iml" />
     </modules>
   </component>
 </project>
