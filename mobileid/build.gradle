@@ -20,6 +20,7 @@ dependencies {
     api 'com.squareup.retrofit2:converter-gson:2.9.0'
     api 'com.github.ghedeon:awsinterceptor:0.7'
     api 'com.google.mlkit:face-detection:16.1.2'
+    api fileTree(dir: 'libs', include: ['*.aar', '*.jar'], exclude: [])
 }
 
 sourceCompatibility = 1.8
