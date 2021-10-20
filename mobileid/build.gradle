@@ -1,0 +1,26 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm'
+    id 'java-library'
+    id 'maven-publish'
+}
+
+dependencies {
+    api 'com.amazonaws:aws-android-sdk-core:2.16.13'
+    api 'org.jmrtd:jmrtd:0.7.18'
+    api 'com.gemalto.jp2:jp2-android:1.0'
+    api 'com.github.mhshams:jnbis:1.1.0'
+    api 'com.gemalto.wsq:wsq-android:1.2'
+    api 'commons-io:commons-io:2.6'
+    api 'net.sf.scuba:scuba-sc-android:0.0.20'
+    api 'com.google.mlkit:face-detection:16.1.2'
+    api 'com.madgag.spongycastle:core:1.58.0.0'
+    api 'com.madgag.spongycastle:bcpkix-jdk15on:1.58.0.0'
+    api 'com.google.zxing:core:3.4.0'
+    api 'com.squareup.retrofit2:retrofit:2.9.0'
+    api 'com.squareup.retrofit2:converter-gson:2.9.0'
+    api 'com.github.ghedeon:awsinterceptor:0.7'
+    api 'com.google.mlkit:face-detection:16.1.2'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
