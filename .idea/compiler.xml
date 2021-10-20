@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="aws-interceptor" target="1.6" />
+      <module name="aws-interceptor.aws-interceptor" target="1.8" />
+      <module name="aws-interceptor.sample" target="1.8" />
+      <module name="AwsInterceptor-0.7.sample" target="11" />
+      <module name="AwsInterceptor.aws-interceptor" target="1.8" />
+      <module name="AwsInterceptor.sample" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
